@@ -8,7 +8,7 @@ Welcome to the Multi-Step Form frontend repository! This project provides a user
   - Technologies Used
 
 # Demo
-- [https://multi-step-form-assignment.netlify.app](multi-step-form-assignment.netlify.app)
+- [multi-step-form-assignment.netlify.app](https://multi-step-form-assignment.netlify.app)
 
 # Features
  - Step-by-Step Process: Guide users through a series of steps to complete a form.
